@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aplikasi-taskku/static/css/main.d1b730c6.chunk.css",
+    "main.js": "/aplikasi-taskku/static/js/main.66144e4a.chunk.js",
+    "main.js.map": "/aplikasi-taskku/static/js/main.66144e4a.chunk.js.map",
+    "runtime-main.js": "/aplikasi-taskku/static/js/runtime-main.bc924faa.js",
+    "runtime-main.js.map": "/aplikasi-taskku/static/js/runtime-main.bc924faa.js.map",
+    "static/js/2.fa1a7d8f.chunk.js": "/aplikasi-taskku/static/js/2.fa1a7d8f.chunk.js",
+    "static/js/2.fa1a7d8f.chunk.js.map": "/aplikasi-taskku/static/js/2.fa1a7d8f.chunk.js.map",
+    "index.html": "/aplikasi-taskku/index.html",
+    "precache-manifest.1f265be78ce30cdd5a4d690fb8f24b09.js": "/aplikasi-taskku/precache-manifest.1f265be78ce30cdd5a4d690fb8f24b09.js",
+    "service-worker.js": "/aplikasi-taskku/service-worker.js",
+    "static/css/main.d1b730c6.chunk.css.map": "/aplikasi-taskku/static/css/main.d1b730c6.chunk.css.map",
+    "static/js/2.fa1a7d8f.chunk.js.LICENSE.txt": "/aplikasi-taskku/static/js/2.fa1a7d8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc924faa.js",
+    "static/js/2.fa1a7d8f.chunk.js",
+    "static/css/main.d1b730c6.chunk.css",
+    "static/js/main.66144e4a.chunk.js"
+  ]
+}
